@@ -1,5 +1,5 @@
 /*	Criar Banco */
-CREATE DATABASE boletim;
+	CREATE DATABASE boletim;
 
 /*	Excluir banco */
 DROP DATABASE boletim;
